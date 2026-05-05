@@ -21,9 +21,9 @@ This command-line tool is built using **PyMuPDF** and **python-docx** libraries.
 ## 📸 Preview
 
 
-=================================
+==================================================
 📚 PDF TO WORD CONVERTER
-=================================
+==================================================
 
 📁 Enter PDF filename (with .pdf extension): document.pdf
 
@@ -38,7 +38,8 @@ Extract images from PDF? (y/n): y
 
 📄 Processing page 3/10...
 📄 Processing page 4/10...
-
+📄 Processing page 5/10...
+📄 Processing page 6/10...
 
 ==================================================
 ✅ CONVERSION COMPLETE!
@@ -46,12 +47,11 @@ Extract images from PDF? (y/n): y
 📁 Input file: document.pdf
 📄 Output file: document.docx
 📊 Statistics:
-   - Pages processed: 3
-   - Images extracted: 5
+   - Pages processed: 4
+   - Images extracted: 7
    - Pages without text: 0
-   - File size: 245.32 KB
+   - File size: 312.45 KB
 ==================================================
-
 
 ## 📋 Requirements
 
