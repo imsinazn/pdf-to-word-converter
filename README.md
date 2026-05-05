@@ -1,4 +1,3 @@
-```markdown
 # 📄 PDF to Word Converter
 
 > **A professional, simple, and powerful tool to convert PDF files to Word (DOCX) documents while preserving text, layout, and extracting images**
@@ -22,9 +21,9 @@ This command-line tool is built using **PyMuPDF** and **python-docx** libraries.
 ## 📸 Preview
 
 ```
-==================================================
+=================================
 📚 PDF TO WORD CONVERTER
-==================================================
+=================================
 
 📁 Enter PDF filename (with .pdf extension): document.pdf
 
