@@ -184,4 +184,3 @@ For issues or feature requests, feel free to [open an issue](https://github.com/
 
 - [PyMuPDF](https://pymupdf.readthedocs.io/) – PDF processing library
 - [python-docx](https://python-docx.readthedocs.io/) – Word document creation
-```
